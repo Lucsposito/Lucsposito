@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucsposito
 - 👀 I’m interested in  projetos de Power BI
-- 🌱 I’m currently learning  CiÊncia de Dados, .net , c#
+- 🌱 I’m currently learning  Ciência de Dados, .net , c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
