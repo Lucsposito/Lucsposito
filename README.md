@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Lucsposito
+# 👋 Hi, I’m @Lucsposito
 - 👀 I’m interested in  projects de Power BI
-- 🌱 I’m currently learning  data science, .NET C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  data science, .NET C#, 
+- 💞️ I’m looking to collaborate on
+- 📖 Front End Student
 - 📫 How to reach me  lucianacostasposito@gmail.com
 
 <!---
