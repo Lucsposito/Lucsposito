@@ -2,7 +2,7 @@
 - 👀 I’m interested in  projects de Power BI
 - 🌱 I’m currently learning  data science, .NET C#, 
 - 💞️ I’m looking to collaborate on
-- 📖 Front End Student
+- 📖 data science Student
 - 📫 How to reach me  lucianacostasposito@gmail.com
 
 <!---
