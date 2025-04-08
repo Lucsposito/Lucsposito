@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Lucsposito
-- 👀 I’m interested in  projects de Power BI
-- 🌱 I’m currently learning  data science,Power BI, 
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in Project and Product Management,Business Analyst and Power BI
+- 🌱 I’m currently learning  data science. 
+- 💞️ I’m looking to collaborate on Project and Product Management,Business Analyst.
 - 📖 data science Student
 - 📫 How to reach me  lucianacostasposito@gmail.com
 
